@@ -235,6 +235,60 @@
         <mxCell id="63A-T530-Y_BiI_bm_w9-39" value="Ruolo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="515" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-40" value="ISTRUTTORE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-41" value="ADDETTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="63A-T530-Y_BiI_bm_w9-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="670" as="sourcePoint" />
+            <mxPoint x="420" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259.78" y="680" as="sourcePoint" />
+            <mxPoint x="259.78" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-44" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="740" as="sourcePoint" />
+            <mxPoint x="210" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-45" value="Disciplina" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="768" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-47" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="740" as="sourcePoint" />
+            <mxPoint x="310" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-48" value="Certificazione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="768" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-49" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="740" as="sourcePoint" />
+            <mxPoint x="370" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-50" value="Turno" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="768" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-51" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="740" as="sourcePoint" />
+            <mxPoint x="470" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-52" value="AreaResponsabile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="768" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
