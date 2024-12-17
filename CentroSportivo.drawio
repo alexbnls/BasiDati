@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Pagina-1" id="2qj2GZJpzb1wbTNh-gF_">
-    <mxGraphModel dx="1180" dy="220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,6 +105,45 @@
             <mxPoint x="630" y="380" as="sourcePoint" />
             <mxPoint x="630" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-11" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="378" as="sourcePoint" />
+            <mxPoint x="530" y="348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-12" value="IdAbbonamento" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="318" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-13" value="Tipo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="318" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-14" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="440" as="sourcePoint" />
+            <mxPoint x="530" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-15" value="Costo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="468" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-16" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="629.81" y="440" as="sourcePoint" />
+            <mxPoint x="629.81" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-17" value="Durata" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="468" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-18" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="410" as="sourcePoint" />
+            <mxPoint x="670" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-19" value="Scadenza (Derivabile)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="395" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
