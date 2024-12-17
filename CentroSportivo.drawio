@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Pagina-1" id="2qj2GZJpzb1wbTNh-gF_">
-    <mxGraphModel dx="1508" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2388" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TS1fgI1TGYpvE9dovKNg-1" value="CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="-120" y="192" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TS1fgI1TGYpvE9dovKNg-2" value="&lt;div&gt;ABBONAMENTO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TS1fgI1TGYpvE9dovKNg-3" value="&lt;div&gt;CORSO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-120" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TS1fgI1TGYpvE9dovKNg-4" value="PERSONALE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="500" width="120" height="60" as="geometry" />
@@ -36,69 +36,69 @@
         </mxCell>
         <mxCell id="fKOpoRJPvV8tH2656EXo-7" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="380" as="sourcePoint" />
-            <mxPoint x="50" y="350" as="targetPoint" />
+            <mxPoint x="-110" y="192" as="sourcePoint" />
+            <mxPoint x="-110" y="162" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fKOpoRJPvV8tH2656EXo-11" value="&lt;div&gt;IdCliente&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="20" y="320" width="70" height="30" as="geometry" />
+          <mxGeometry x="-140" y="132" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fKOpoRJPvV8tH2656EXo-16" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="409.81" as="sourcePoint" />
-            <mxPoint x="10" y="409.81" as="targetPoint" />
+            <mxPoint x="-120" y="221.81" as="sourcePoint" />
+            <mxPoint x="-150" y="221.81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fKOpoRJPvV8tH2656EXo-17" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="395" width="50" height="30" as="geometry" />
+          <mxGeometry x="-190" y="207" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fKOpoRJPvV8tH2656EXo-18" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="395" as="sourcePoint" />
-            <mxPoint x="-40" y="380" as="targetPoint" />
+            <mxPoint x="-170" y="207" as="sourcePoint" />
+            <mxPoint x="-200" y="192" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fKOpoRJPvV8tH2656EXo-19" value="NomeProprio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="360" width="100" height="30" as="geometry" />
+          <mxGeometry x="-300" y="172" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fKOpoRJPvV8tH2656EXo-20" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="425" as="sourcePoint" />
-            <mxPoint x="-38" y="440" as="targetPoint" />
+            <mxPoint x="-170" y="237" as="sourcePoint" />
+            <mxPoint x="-198" y="252" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fKOpoRJPvV8tH2656EXo-21" value="Cognome" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="425" width="80" height="30" as="geometry" />
+          <mxGeometry x="-270" y="237" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-2" value="&lt;h3&gt;&lt;strong&gt;1. Entità con Attributi&lt;/strong&gt;&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;CLIENTE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Chiave primaria&lt;/strong&gt;: &lt;code&gt;ID_Cliente&lt;/code&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Attributi&lt;/strong&gt;: &lt;code&gt;Nome&lt;/code&gt; (composto: &lt;code&gt;NomeProprio&lt;/code&gt;, &lt;code&gt;Cognome&lt;/code&gt;), &lt;code&gt;DataNascita&lt;/code&gt;, &lt;code&gt;Telefono&lt;/code&gt; (multivalore), &lt;code&gt;Email&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;ABBONAMENTO&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Chiave primaria&lt;/strong&gt;: &lt;code&gt;ID_Abbonamento&lt;/code&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Attributi&lt;/strong&gt;: &lt;code&gt;Tipo&lt;/code&gt;, &lt;code&gt;Costo&lt;/code&gt;, &lt;code&gt;Durata&lt;/code&gt; (espressa in mesi), &lt;code&gt;Scadenza&lt;/code&gt; (derivabile da &lt;code&gt;Durata&lt;/code&gt; e &lt;code&gt;DataInizio&lt;/code&gt;)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;CORSO&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Chiave primaria&lt;/strong&gt;: &lt;code&gt;ID_Corso&lt;/code&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Attributi&lt;/strong&gt;: &lt;code&gt;NomeCorso&lt;/code&gt;, &lt;code&gt;Descrizione&lt;/code&gt;, &lt;code&gt;NumeroPartecipanti&lt;/code&gt;, &lt;code&gt;Orario&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;PERSONALE&lt;/strong&gt; &lt;em&gt;(Specializzazione Totale)&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Chiave primaria&lt;/strong&gt;: &lt;code&gt;ID_Personale&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Attributi&lt;/strong&gt;: &lt;code&gt;Nome&lt;/code&gt;, &lt;code&gt;Cognome&lt;/code&gt;, &lt;code&gt;Ruolo&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Istruttore&lt;/strong&gt; &lt;em&gt;(figlio della specializzazione)&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Attributi aggiuntivi&lt;/strong&gt;: &lt;code&gt;Disciplina&lt;/code&gt;, &lt;code&gt;Certificazione&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;AddettoSala&lt;/strong&gt; &lt;em&gt;(figlio della specializzazione)&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Attributi aggiuntivi&lt;/strong&gt;: &lt;code&gt;AreaResponsabile&lt;/code&gt;, &lt;code&gt;Turno&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;hr&gt;&lt;h3&gt;&lt;strong&gt;2. Relazioni&lt;/strong&gt;&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;ISCRIZIONE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Partecipanti&lt;/strong&gt;: &lt;strong&gt;CLIENTE&lt;/strong&gt; e &lt;strong&gt;CORSO&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Cardinalità&lt;/strong&gt;: &lt;strong&gt;N:N&lt;/strong&gt; (un cliente può partecipare a più corsi, un corso può avere più clienti)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Attributo della relazione&lt;/strong&gt;: &lt;code&gt;DataIscrizione&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;ABBONAMENTO_CLIENTE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Partecipanti&lt;/strong&gt;: &lt;strong&gt;CLIENTE&lt;/strong&gt; e &lt;strong&gt;ABBONAMENTO&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Cardinalità&lt;/strong&gt;: &lt;strong&gt;1:N&lt;/strong&gt; (un cliente può avere uno o più abbonamenti attivi nel tempo)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Attributo della relazione&lt;/strong&gt;: &lt;code&gt;DataInizio&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;CORSO_PERSONALE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Partecipanti&lt;/strong&gt;: &lt;strong&gt;CORSO&lt;/strong&gt; e &lt;strong&gt;PERSONALE&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Cardinalità&lt;/strong&gt;: &lt;strong&gt;1:N&lt;/strong&gt; (un istruttore può gestire più corsi, un corso è gestito da un solo istruttore)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;hr&gt;&lt;h3&gt;&lt;strong&gt;3. Attributi Richiesti&lt;/strong&gt;&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Attributo Derivabile&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;code&gt;Scadenza&lt;/code&gt; in &lt;strong&gt;ABBONAMENTO&lt;/strong&gt; è calcolato a partire da &lt;code&gt;Durata&lt;/code&gt; e &lt;code&gt;DataInizio&lt;/code&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Attributo Multivalore&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;code&gt;Telefono&lt;/code&gt; in &lt;strong&gt;CLIENTE&lt;/strong&gt; può contenere più numeri di telefono.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Attributo Composto&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;code&gt;Nome&lt;/code&gt; in &lt;strong&gt;CLIENTE&lt;/strong&gt; (diviso in &lt;code&gt;NomeProprio&lt;/code&gt; e &lt;code&gt;Cognome&lt;/code&gt;).&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Attributo di Relazione&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;code&gt;DataIscrizione&lt;/code&gt; nella relazione &lt;strong&gt;ISCRIZIONE&lt;/strong&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="20" width="560" height="1060" as="geometry" />
+          <mxGeometry x="-1030" y="-70" width="560" height="1060" as="geometry" />
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-4" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="380" as="sourcePoint" />
-            <mxPoint x="150" y="350" as="targetPoint" />
+            <mxPoint x="-10" y="192" as="sourcePoint" />
+            <mxPoint x="-10" y="162" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-5" value="DataNascita" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="318" width="90" height="30" as="geometry" />
+          <mxGeometry x="-60" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-6" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="440" as="sourcePoint" />
-            <mxPoint x="50" y="470" as="targetPoint" />
+            <mxPoint x="-110" y="252" as="sourcePoint" />
+            <mxPoint x="-110" y="282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-7" value="&lt;div&gt;Telefono (0, N)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="470" width="100" height="30" as="geometry" />
+          <mxGeometry x="-160" y="282" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-8" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="440" as="sourcePoint" />
-            <mxPoint x="150" y="470" as="targetPoint" />
+            <mxPoint x="-10" y="252" as="sourcePoint" />
+            <mxPoint x="-10" y="282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-9" value="&lt;div&gt;Email&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="125" y="468" width="50" height="30" as="geometry" />
+          <mxGeometry x="-35" y="280" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-10" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -154,50 +154,50 @@
         <mxCell id="63A-T530-Y_BiI_bm_w9-21" value="DataInizio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="455" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="63A-T530-Y_BiI_bm_w9-22" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=1;" edge="1" parent="1">
+        <mxCell id="63A-T530-Y_BiI_bm_w9-22" value="" style="endArrow=none;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;startArrow=oval;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="260" as="sourcePoint" />
-            <mxPoint x="290" y="230" as="targetPoint" />
+            <mxPoint x="-105.23" y="590" as="sourcePoint" />
+            <mxPoint x="-105.23" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-23" value="&lt;div&gt;IdCorso&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="198" width="70" height="30" as="geometry" />
+          <mxGeometry x="-145" y="583" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="63A-T530-Y_BiI_bm_w9-24" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="63A-T530-Y_BiI_bm_w9-24" value="" style="endArrow=none;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="260" as="sourcePoint" />
-            <mxPoint x="390" y="230" as="targetPoint" />
+            <mxPoint x="-10.14" y="590" as="sourcePoint" />
+            <mxPoint x="-10.14" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-25" value="NomeCorso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="369" y="198" width="90" height="30" as="geometry" />
+          <mxGeometry x="-35" y="583" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="63A-T530-Y_BiI_bm_w9-26" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="63A-T530-Y_BiI_bm_w9-26" value="" style="endArrow=none;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="289.83" as="sourcePoint" />
-            <mxPoint x="430" y="289.83" as="targetPoint" />
+            <mxPoint x="-150" y="549.6499999999999" as="sourcePoint" />
+            <mxPoint x="-120" y="549.6499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-27" value="Descrizione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="258" width="90" height="30" as="geometry" />
+          <mxGeometry x="-230" y="515" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-28" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="279.66" y="288" as="sourcePoint" />
-            <mxPoint x="250" y="288" as="targetPoint" />
+            <mxPoint x="-119.99999999999997" y="509.79" as="sourcePoint" />
+            <mxPoint x="-149.66" y="509.79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-29" value="NumPartecipanti" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="165" y="258" width="110" height="30" as="geometry" />
+          <mxGeometry x="-240" y="470" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="63A-T530-Y_BiI_bm_w9-30" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="63A-T530-Y_BiI_bm_w9-30" value="" style="endArrow=none;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="339.83" y="258" as="sourcePoint" />
-            <mxPoint x="339.83" y="228" as="targetPoint" />
+            <mxPoint x="-55.140000000000015" y="590" as="sourcePoint" />
+            <mxPoint x="-55.140000000000015" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-31" value="Orario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="198" width="60" height="30" as="geometry" />
+          <mxGeometry x="-86" y="583" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-32" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -288,6 +288,36 @@
         </mxCell>
         <mxCell id="63A-T530-Y_BiI_bm_w9-52" value="AreaResponsabile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="768" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-53" value="ISCRIZIONE" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-54" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TS1fgI1TGYpvE9dovKNg-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="470" as="sourcePoint" />
+            <mxPoint x="-60" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-55" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TS1fgI1TGYpvE9dovKNg-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="360" as="sourcePoint" />
+            <mxPoint x="-60" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-56" value="(1, N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="330" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-57" value="(0, N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="418" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-58" value="" style="endArrow=oval;html=1;rounded=1;curved=0;strokeColor=default;strokeWidth=1;jumpStyle=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="389.75" as="sourcePoint" />
+            <mxPoint x="30" y="389.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63A-T530-Y_BiI_bm_w9-59" value="DataIscrizione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="360" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
