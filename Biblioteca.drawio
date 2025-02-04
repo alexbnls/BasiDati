@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.11">
   <diagram name="Pagina-1" id="CKPe9ArXParjtvpfLqmc">
-    <mxGraphModel dx="2417" dy="2159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1949" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,8 +326,8 @@
             <mxPoint x="750" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aiX9ibEADZG4w50RFVKg-84" value="LibriReg(deriv.)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="750" y="-490" width="100" height="30" as="geometry" />
+        <mxCell id="aiX9ibEADZG4w50RFVKg-84" value="#LibriReg(deriv.)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="745" y="-490" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aiX9ibEADZG4w50RFVKg-85" value="LAVORO" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-480" width="120" height="60" as="geometry" />
@@ -460,6 +460,15 @@
         </mxCell>
         <mxCell id="aiX9ibEADZG4w50RFVKg-115" value="CognomeTutor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="398" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiX9ibEADZG4w50RFVKg-116" value="" style="endArrow=oval;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="-100" as="sourcePoint" />
+            <mxPoint x="140" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aiX9ibEADZG4w50RFVKg-117" value="#LibriScritti(deriv.)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-72" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
