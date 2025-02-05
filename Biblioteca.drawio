@@ -425,15 +425,6 @@
         <mxCell id="aiX9ibEADZG4w50RFVKg-106" value="DurataContratto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="345" y="-542" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aiX9ibEADZG4w50RFVKg-107" value="" style="endArrow=oval;html=1;rounded=0;endFill=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="-290.21000000000004" as="sourcePoint" />
-            <mxPoint x="750" y="-290.21000000000004" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aiX9ibEADZG4w50RFVKg-108" value="NumScaffale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="755" y="-305" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="aiX9ibEADZG4w50RFVKg-109" value="" style="endArrow=oval;html=1;rounded=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="59.99999999999999" y="370" as="sourcePoint" />
